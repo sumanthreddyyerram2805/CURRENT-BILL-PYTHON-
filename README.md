@@ -14,6 +14,7 @@ A simple Python program that calculates an electricity bill using slab-based pri
 ## Technologies Used
 
 * Python 3
+* Jupyter Notebook
 
 ## Tariff Slabs
 
