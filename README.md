@@ -1,4 +1,4 @@
-# CURRENT-BILL-PYTHON-
+# CURRENT-BILL
 # Electricity Bill Calculator
 
 A simple Python program that calculates an electricity bill using slab-based pricing. The program accepts the customer's name and the number of units consumed, calculates the bill according to predefined rate slabs, and applies a **10% surcharge** when consumption exceeds **500 units**.
